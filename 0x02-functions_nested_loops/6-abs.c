@@ -1,5 +1,3 @@
-es (17 sloc)  215 Bytes
-   
 #include "main.h"
 /**
  * _abs - compute the absolute value of an integer
