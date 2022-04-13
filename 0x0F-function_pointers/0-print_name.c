@@ -1,5 +1,3 @@
-es (13 sloc)  241 Bytes
-   
 #include <stdio.h>
 #include "function_pointers.h"
 /**
